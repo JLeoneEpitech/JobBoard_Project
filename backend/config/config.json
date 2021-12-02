@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "samy",
+    "password": "coolman300",
+    "database": "database_development_job",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "samy",
+    "password": "coolman300",
+    "database": "database_test_job",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "samy",
+    "password": "coolman300",
+    "database": "database_production_job",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
